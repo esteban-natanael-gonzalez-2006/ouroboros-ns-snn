@@ -1,0 +1,14 @@
+# Entornos virtuales
+ouroboros-env/
+venv/
+.env
+
+# Caches y binarios compilados
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
